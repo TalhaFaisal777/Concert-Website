@@ -1,0 +1,302 @@
+.main {
+  width: 500px;
+  margin-left: 420px;
+  margin-top: 120px;
+  background-size: cover;
+}
+.p1 {
+  text-align: center;
+  font-size: 13px;
+}
+.p2 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: -10px;
+}
+.spa1 {
+  color: green;
+}
+.p3 {
+  text-align: center;
+  font-size: 13px;
+  margin-top: -20px;
+}
+.btn3 {
+  margin-left: 80px;
+  padding: 18px;
+  color: white;
+  background: green;
+  border: 0;
+  border-radius: 40px;
+  font-size: 13px;
+  cursor: pointer;
+  width: 170px;
+  height: 50px;
+}
+.btn4 {
+  margin-left: 10px;
+  padding: 18px;
+  color: green;
+  background: transparent;
+  border: 1px solid;
+  border-radius: 40px;
+  font-size: 13px;
+  cursor: pointer;
+  width: 170px;
+  height: 50px;
+}
+.btn3:hover {
+  color: green;
+  background: transparent;
+  border: 1px solid green;
+}
+.btn4:hover {
+  background: green;
+  color: white;
+}
+.main2 {
+  margin-top: 200px;
+
+}
+.l1 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 11px;
+}
+.l2 {
+  text-align: center;
+  font-weight: 750;
+  margin-top: -8px;
+  font-family: sans-serif;
+}
+.l3 {
+  text-align: center;
+  margin-top: -10px;
+  font-size: 1;
+}
+.img1 {
+  width: 800px;
+  margin-left: 270px;
+}
+.l4 {
+  margin-left: 100px;
+  margin-top: -300px;
+  height: 100px;
+  font-size: 13px;
+}
+.spa3 {
+  font-weight: 600;
+  text-align: center;
+  font-size: 15px;
+  margin-left: 19px;
+}
+.l5 {
+  margin-left: 0px;
+  margin-top: 230px;
+  font-size: 13px; text-align: center;
+}
+.main3{
+    
+    margin-top: 150px;
+    
+}
+.img2{
+    width: 600px;
+    height: 500px;
+    margin-left: 100px;
+}
+.l6{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+.l7{
+    margin-left: 800px; 
+    font-size: 45px;
+    margin-top: -10px;
+    font-weight: 700;
+    font-family: sans-serif ;
+}
+.l8{
+  margin-left: 800px; 
+  margin-top: -30px;
+  font-weight: 100;
+}
+.main4{
+
+  margin-top: 500px; 
+
+}
+
+.l9{
+  margin-left: 100px;
+  margin-top: 100px
+;
+}
+.l10{
+  margin-left: 100px; 
+  font-size: 45px;
+  margin-top: -10px;
+  font-weight: 700;
+  font-family: sans-serif ;
+}
+.l11{
+margin-left: 100px; 
+margin-top: -30px;
+font-weight: 100;
+}
+.img3{
+  width: 600px;
+  height: 500px;  
+  margin-left: 650px;
+  margin-top: -350px;
+}
+.main5{
+
+  margin-top: 400px; 
+
+}
+.line{
+  text-align: center;
+  font-size: 13px;
+}
+.line1 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: -10px;
+}
+.main6{
+
+  margin-top: 400px; 
+  background-color: aliceblue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+.line2{
+    text-align: center;
+}
+.name{
+  text-align: center;
+}
+
+.main7{
+    margin-top: 200px; 
+    padding-bottom: 20px; 
+  
+  }
+  .line10 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: -10px;
+  }
+  .btn5{
+    margin-left: 600px;
+    padding: 18px;
+    color: white;
+    background: green;
+    border: 0;
+    border-radius: 40px;
+    font-size: 13px;
+    cursor: pointer;
+    width: 170px;
+    height: 50px;
+  }
+
+  .btn5:hover {
+    color: green;
+    background: transparent;
+    border: 1px solid green;
+  }
+
+  .main8{
+    margin-top: 150px; 
+    padding-bottom: 20px;
+    background-color: rgb(197, 255, 197); 
+ 
+  
+  }
+  .logo1{
+    display: inline-block;
+    margin-left: 610px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 30px;     
+}
+
+.footheading{
+  margin-left: 150px;
+  display: inline-block;
+  font-weight: 550;
+}
+.fheading1{
+  margin-left: 150px;
+}
+.fheading2{
+  margin-left: 378px;
+
+}
+.head{
+  margin-top: -165px;
+}
+.fheading3{
+  margin-left: 630px;
+}
+.head1{
+  margin-top: -200px;
+}
+.fheading4{
+margin-left: 860px;  
+}
+.head2{
+  margin-top: -120px;
+}
+.fheading5{
+  margin-left: 1090px;  
+  }
+.head3{
+  margin-top: -90px;
+}
+.terms{
+margin-top:200px;
+text-align: center;
+}
+.Powered{
+    text-align: center;
+    font-size: 10px;
+}
+.Giga{
+  text-align: center;
+  margin-top: -10px;
+}
+.cap{
+  text-align: center;
+  margin-top: -25px;
+  font-size: 10px;
+  font-weight: 600;
+}
+.main9{
+  border: 0px solid;
+
+}
+.last1{
+  font-size: 35px;
+  margin-left: 150px;
+  font-weight: 600;
+}
+.last2{
+  margin-left: 150px;
+  margin-top: -10px;
+  font-size: 15px;
+}
+.img5{
+  margin-left: 1050px;
+  margin-top: -150px;
+  height: 150px;
+  display: flex;
+}
+.lastpara{
+  text-align: center;
+  font-size: 15px; 
+  margin-top: 80px;
+}

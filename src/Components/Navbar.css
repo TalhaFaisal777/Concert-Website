@@ -1,0 +1,72 @@
+.rx{
+color: green;
+}
+.logo{
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-weight: 500;     
+}
+.container{
+    border:px solid;
+}
+.nav{
+    margin-left: 500px;
+    margin-top:-60px;
+    
+}
+.bar{
+        margin:10px;
+        display: inline-block;
+        text-decoration: none;
+        color: black;
+        font-weight: 500;
+        
+}
+.bar:hover{
+    color: green;
+}
+.bar1{
+    color: green;
+}
+.btn{
+    margin: 0px;
+}
+.btn1{
+    display: flex;
+    margin-top:-67px;
+    margin-left: 1110px;
+    padding: 20px;
+    color: green;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    font-size: 13px;
+    border-radius: 30px;
+    
+}
+.btn2{
+    display: flex;
+    margin-top:-55px;
+    margin-left: 1200px;
+    padding:20px;
+    color: white;
+    background: green;
+    border: 0;
+    border-radius: 40px;
+    font-size: 13px;
+    cursor: pointer;
+    width: 130px;
+    justify-content: center;
+    height: 50px;
+}
+.btn2:hover{
+    color: green;
+    background: transparent;
+    border: 1px solid green;
+}
+.btn1:hover{
+  background:green;
+  color:white
+}
